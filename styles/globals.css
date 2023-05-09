@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'iranSans';
+  src: url('../public/fonts/Iransans/normal.woff');
+}
+*,
+html,
+body {
+  direction: rtl;
+  padding: 0;
+  margin: 0;
+  font-family:'iranSans', -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    text-align: right;
+}
+a {
+  color: inherit;
+  text-decoration: none;
+}
+a:hover{
+  color: #eaac30 !important;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.section {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  position: relative;
+}
+.feature .container{
+  margin: 0;
+}

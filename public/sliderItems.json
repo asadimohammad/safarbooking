@@ -1,0 +1,30 @@
+{
+    "items": {
+        "bootstrap": [
+            {
+                "id": 1,
+                "title": "API سفر بوکینگ",
+                "body": "بیش از 3000 هتل و 1000 مسیر پروازی",
+                "imageUrl": "/images/psl1.png"
+            },
+            {
+                "id": 2,
+                "title": "SAFAR GDS",
+                "body": "Api های یکپارچه در بستر Safar GDS",
+                "imageUrl": "/images/psl2.png"
+            },
+            {
+                "id": 3,
+                "title": "استرداد خودکار",
+                "body": "محاسبه هوشمند میزان جریمه استرداد , درخواست استرداد از طریق داشبورد وب سرویس سفر",
+                "imageUrl": "/images/psl3.png"
+            },
+            {
+                "id": 4,
+                "title": "گریفین",
+                "body": "خدمات متنوع و گسترده به ایرلاین ها",
+                "imageUrl": "/images/newsl1.png"
+            }
+        ]
+    }
+}

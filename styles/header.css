@@ -1,0 +1,14 @@
+.nav-item {
+  padding-left: 50px;
+}
+
+.navbar {
+  padding: 10px 0px;
+  line-height: 50px;
+  background-color: #2C325A;
+  color: #fff;
+  font-size: 14px;
+}
+.navbar .btn:hover{
+  color: #6610f2;
+}

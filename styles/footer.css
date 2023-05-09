@@ -1,0 +1,42 @@
+.footer{
+    background: url('/images/footer-back.jpeg') no-repeat center;
+    background-size: cover;
+    color: #fff;
+    font-size: 14px;
+}
+
+.footer .about{
+    line-height: 35px;
+    text-align: justify;
+    padding-right: 15px;
+}
+.footer .company-sub-menu li{
+    margin: 10px 0;
+}
+.footer .company-sub-menu li a::before{
+    content: "\f053" !important;
+    font-family: 'FA5';
+    font-size: 12px;
+    padding-left: 10px;
+}
+.footer h3{
+    font-family: IRANSans;
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+}
+.footer .address-bar {
+    margin-bottom: -90px;
+    padding: 13px;
+    background-color: #0c0c0c73;
+    color: white;
+    font-size: 13px;
+}
+.address-bar p{
+    
+    text-align: left;
+}
+.address-bar a:hover{
+    color: #eaac30 !important;
+    text-decoration: none;
+  }
